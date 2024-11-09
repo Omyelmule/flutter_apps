@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426995112353",
+    "project_id": "signup-24b44",
+    "storage_bucket": "signup-24b44.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426995112353:android:081ab97f1fbe62158cd3e0",
+        "android_client_info": {
+          "package_name": "com.example.login_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXI8UbWbozDmHcB77rF8zE6IEb-inl2K4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
